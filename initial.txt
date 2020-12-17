@@ -1,1 +1,2 @@
 Commande ECHO activée.
+salut tt le monde
