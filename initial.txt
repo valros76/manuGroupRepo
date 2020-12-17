@@ -1,1 +1,2 @@
 Commande ECHO activée.
+Commande ECHO désactivée.
