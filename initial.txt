@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello Group !
+=======
+Commande ECHO activée.
+Commande ECHO désactivée.
+>>>>>>> 1da007f8b9fb03100df5332411e71a8d90764fe7
