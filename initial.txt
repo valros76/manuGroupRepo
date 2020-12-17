@@ -2,5 +2,9 @@
 Hello Group !
 =======
 Commande ECHO activée.
+<<<<<<< HEAD
 Commande ECHO désactivée.
 >>>>>>> 1da007f8b9fb03100df5332411e71a8d90764fe7
+=======
+salut tt le monde
+>>>>>>> 066e55c29c0510e2cddab815b486a9bb28c5bef6
